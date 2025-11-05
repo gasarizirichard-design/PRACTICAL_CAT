@@ -1,31 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Registration Form</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-    }
-    form {
-      max-width: 500px;
-      margin: auto;
-    }
-    label {
-      display: block;
-      margin-top: 15px;
-    }
-    input, select {
-      width: 100%;
-      padding: 8px;
-      margin-top: 5px;
-    }
-    button {
-      margin-top: 20px;
-      padding: 10px 20px;
-    }
-  </style>
+  <title>registration page</title>
+  <link rel="stylesheet" href="boostrap.css">
 </head>
 <body>
   <h2>User Registration</h2>
